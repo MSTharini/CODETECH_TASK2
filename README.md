@@ -1,1 +1,6 @@
-# CODETECH_TASK2
+Name: THARINI.M
+Company: CODTECH IT SOLUTIONS
+ID: CT12DVV
+Domain: Artificial Intelligence
+Duration: December to February 2025
+Mentor: SRAVANI GOUNI
